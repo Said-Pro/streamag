@@ -1,4 +1,6 @@
 [
   {"name": "alpha6", "url": "http://alpha6-tx.me/c/", "mac": "00:1A:79:4f:e7:96"},
-  {"name": "hkpremiumtv", "url": "http://hkpremiumtv.xyz:2095/c/", "mac": "00:1A:79:AE:26:B3"}
-]
+  {"name": "hkpremiumtv", "url": "http://hkpremiumtv.xyz:2095/c/", "mac": "00:1A:79:AE:26:B3"},
+  {"name": "trxx", "url": "http://trxx.in/c/", "mac": "00:1A:79:18:08:31"},
+  {"name": "tv4k", "url": "http://line.tv4k.top/c/", "mac": "00:1A:79:6A:BE:4F"}
+] 
